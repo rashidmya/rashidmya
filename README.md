@@ -3,7 +3,6 @@ My name is Rashid.
 
 ## Socials
 ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
-![Twitter](https://img.shields.io/badge/thedepresseddeveloper-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)
 ![Discord](https://img.shields.io/badge/BUGA-0001-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)
 
 ## Technologies
