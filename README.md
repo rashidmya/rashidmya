@@ -1,5 +1,5 @@
 ## Hello!
-My name is Rashid, I'm a full-stack developer from the U+1F1E6 UAE.
+My name is Rashid, I'm a full-stack developer from the 🇦🇪 UAE.
 
 ## Socials
 ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
