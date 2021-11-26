@@ -1,5 +1,5 @@
 ## Hello!
-My name is Rashid, I'm a full-stack developer from the UAE.
+My name is Rashid, I'm a full-stack developer from the ![UAE Flag](https://hatscripts.github.io/circle-flags/flags/ae.svg)UAE.
 
 ## Socials
 ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
