@@ -1,5 +1,5 @@
 ## Hello!
-My name is Rashid, and I'm 25 years old.
+My name is Rashid.
 
 ## Socials
 ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
