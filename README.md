@@ -1,8 +1,8 @@
-## Hello!
-<img src="https://hatscripts.github.io/circle-flags/flags/ae.svg" width="14"> My name is Rashid, I'm a full-stack developer from the UAE.
+## 👋 Hello, I'm Rashid!
+<img src="https://hatscripts.github.io/circle-flags/flags/ae.svg" width="14">A passionate full-stack developer from the UAE.
 
 ## Socials
-![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
+<a href="https://www.linkedin.com/in/rashidalawadhi/">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a>
 ![Discord](https://img.shields.io/badge/BUGA-0001-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)
 
 ## Technologies
