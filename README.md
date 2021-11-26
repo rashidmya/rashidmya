@@ -4,7 +4,7 @@ My name is Rashid.
 ## Socials
 ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
 ![Twitter](https://img.shields.io/badge/thedepresseddeveloper-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)
-![Discord](https://img.shields.io/badge/BUGA-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)
+![Discord](https://img.shields.io/badge/BUGAC2-A3-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)
 
 ## Technologies
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
