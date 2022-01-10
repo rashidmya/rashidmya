@@ -28,13 +28,6 @@ My name is Rashid, I'm a full-stack developer from the UAE. [<img src="https://h
 [![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white)](#)
 [![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)](#)
 
-#### *Currently Learning*
-
-
-#### *Want to learn*
-[![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)](#)
-[![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)](#)
-
 # Github Stats
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rashidmya&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
